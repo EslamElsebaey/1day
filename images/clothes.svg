@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 93.5 55.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #003c48;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #009898;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #70c6cb;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #00afab;
+      }
+
+      .cls-6 {
+        fill: #faae62;
+      }
+    </style>
+  </defs>
+  <g id="Group_14876" data-name="Group 14876">
+    <g id="Group_14875" data-name="Group 14875">
+      <path id="Path_12895" data-name="Path 12895" class="cls-2" d="M91.8,28.3H22.7c-.9,0-1.7-.8-1.7-1.7s.8-1.7,1.7-1.7h69.1c.9,0,1.7.8,1.7,1.7s-.8,1.7-1.7,1.7"/>
+      <path id="Path_12896" data-name="Path 12896" class="cls-2" d="M90.9,28.3H23.5l4.3,23.9h58.7l4.3-23.9Z"/>
+      <line id="Line_60" data-name="Line 60" class="cls-1" x1="24.9" y1="28.3" x2="89.5" y2="28.3"/>
+      <path id="Path_12897" data-name="Path 12897" class="cls-5" d="M33.1,46.4h0c.6,0,1-.5,1-1,0,0,0-.1,0-.2l-2.1-13.1c0-.5-.5-.9-1-.9h0c-.6,0-1,.5-1,1,0,0,0,.1,0,.2l2.1,13.1c0,.5.5.9,1,.9"/>
+      <path id="Path_12898" data-name="Path 12898" class="cls-5" d="M39.8,31.3h0c-.6,0-1,.5-1,1,0,0,0,0,0,.1l1.4,13.1c0,.5.5.9,1,.9h0c.6,0,1-.5,1-1,0,0,0,0,0-.1l-1.4-13.1c0-.5-.5-.9-1-.9"/>
+      <path id="Path_12899" data-name="Path 12899" class="cls-5" d="M48.5,31.3h0c-.6,0-1,.5-1,1,0,0,0,0,0,0l.7,13.1c0,.6.5,1,1.1,1,.6,0,1-.5,1-1.1l-.7-13.1c0-.5-.5-1-1-1"/>
+      <path id="Path_12900" data-name="Path 12900" class="cls-5" d="M57.2,31.3h0c-.6,0-1,.5-1,1,0,0,0,0,0,0v13.1c0,.6.5,1,1,1h0c.6,0,1-.5,1-1v-13.1c0-.6-.5-1-1-1"/>
+      <path id="Path_12901" data-name="Path 12901" class="cls-5" d="M66,31.3h0c-.5,0-1,.4-1,1l-.7,13.1c0,.6.4,1,1,1.1.6,0,1-.4,1.1-1h0l.7-13.1c0-.6-.4-1-1-1.1,0,0,0,0,0,0"/>
+      <path id="Path_12902" data-name="Path 12902" class="cls-5" d="M74.7,31.3h0c-.5,0-1,.4-1,.9l-1.4,13.1c0,.6.3,1.1.9,1.1,0,0,0,0,.1,0h0c.5,0,1-.4,1-.9l1.4-13.1c0-.6-.3-1.1-.9-1.1,0,0,0,0-.1,0"/>
+      <path id="Path_12903" data-name="Path 12903" class="cls-5" d="M83.4,31.3h0c-.5,0-.9.4-1,.9l-2.1,13.1c0,.6.3,1.1.8,1.2,0,0,.1,0,.2,0h0c.5,0,.9-.4,1-.9l2.1-13.1c0-.6-.3-1.1-.8-1.2,0,0-.1,0-.2,0"/>
+      <path id="Path_12904" data-name="Path 12904" class="cls-4" d="M86,24.9h-48.9c-2.7,0-4.8-2.2-4.8-4.8v-2.8c0-2.7,2.2-4.8,4.8-4.8h48.9v12.5Z"/>
+      <line id="Line_61" data-name="Line 61" class="cls-1" x1="37.2" y1="18.7" x2="86" y2="18.7"/>
+      <path id="Path_12905" data-name="Path 12905" class="cls-6" d="M28.5,12.4h48.9c2.7,0,4.8-2.2,4.8-4.8v-2.8c0-2.7-2.2-4.8-4.8-4.8H28.5v12.5Z"/>
+      <line id="Line_62" data-name="Line 62" class="cls-1" x1="77.2" y1="6.2" x2="28.5" y2="6.2"/>
+      <path id="Path_12906" data-name="Path 12906" class="cls-1" d="M39.6,52.2l2.7-2.7h29.9l2.7,2.7"/>
+      <path id="Path_12907" data-name="Path 12907" class="cls-3" d="M51.1,48.2l-40.3,7.5c-2.2.4-4.3-1-4.7-3.2L0,19.9l5.1-4.7,18.5-2.4,18.1-4.3,6.5,2.5,6,32.5c.4,2.2-1,4.3-3.2,4.7"/>
+      <path id="Path_12908" data-name="Path 12908" class="cls-3" d="M8.6,9.4l15,3.4-2.1,6.3c-.6,1.9-2.7,2.9-4.6,2.3-.2,0-.4-.1-.5-.2l-11.2-5.9,3.5-5.8Z"/>
+      <path id="Path_12909" data-name="Path 12909" class="cls-3" d="M36.5,4.2l-12.8,8.5,4.3,5.2c1.3,1.5,3.5,1.8,5.1.5.1-.1.3-.3.4-.4l8.4-9.6-5.3-4.2Z"/>
+      <path id="Path_12910" data-name="Path 12910" class="cls-1" d="M23.7,12.7l-2.1,6.3c-.6,1.9-2.7,2.9-4.6,2.3-.2,0-.4-.1-.5-.2l-11.2-5.9"/>
+      <path id="Path_12911" data-name="Path 12911" class="cls-1" d="M23.7,12.7l4.3,5.2c1.3,1.5,3.5,1.8,5.1.5.1-.1.3-.3.4-.4l8.4-9.6"/>
+      <line id="Line_63" data-name="Line 63" class="cls-1" x1="22.2" y1="17.1" x2="28.7" y2="52.3"/>
+      <line id="Line_64" data-name="Line 64" class="cls-1" x1="26.7" y1="16.3" x2="33.2" y2="51.5"/>
+      <path id="Path_12912" data-name="Path 12912" class="cls-1" d="M42,36.5h0c-2.9.5-5.7-1.4-6.2-4.3h0s-.9-5-.9-5l10.5-1.9.9,5c.5,2.9-1.4,5.7-4.3,6.2Z"/>
+    </g>
+  </g>
+</svg>
