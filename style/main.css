@@ -597,9 +597,9 @@ ol.breadcrumb li span {
 }
 .app-screens .mySwiper-parent .frame {
   z-index: 8;
-  width: 17.55%;
+  width: 18.5%;
   position: absolute;
-  top: -10px;
+  top: -15px;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -659,9 +659,9 @@ ol.breadcrumb li span {
 }
 @media only screen and (max-width: 767px) {
   .app-screens .mySwiper-parent .frame {
-    width: 52.5%;
-    height: 103%;
-    top: -5px;
+    width: 54%;
+    height: 105%;
+    top: -11px;
   }
   .app-screens .mySwiper-parent .frame img {
     height: 100%;
@@ -1532,6 +1532,7 @@ header {
   padding: 31px 25px;
   filter: drop-shadow(6.018px 7.986px 12.5px rgba(0, 0, 0, 0.1));
   background-color: #ffffff;
+  border-radius: 15px;
 }
 .client-reviews .item .icon {
   font-size: 48px;

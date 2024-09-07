@@ -12,9 +12,9 @@
   .mySwiper-parent {
     .frame {
       z-index: 8;
-      width: 17.55%;
+      width: 18.5%;
       position: absolute;
-      top: -10px;
+      top: -15px;
       left: 50%;
       transform: translateX(-50%);
       img {
@@ -63,10 +63,10 @@
   }
 }
 
-@include max-1200 {
-  .app-screens .mySwiper-parent .frame {
-    width: 22%;
-  }
+@include max-1200{
+    .app-screens .mySwiper-parent .frame{
+        width: 22%;
+    }
 }
 
 @include max-992 {
@@ -80,15 +80,16 @@
 }
 
 @include max-768 {
-  .app-screens .mySwiper-parent .frame {
-    width: 52.5%;
-    height: 103%;
-    top: -5px;
-    img {
-      height: 100%;
-      width: 100%;
+
+  .app-screens .mySwiper-parent .frame{
+        width: 54%;
+        height: 105%;
+        top: -11px;
+        img{
+            height: 100%;
+            width: 100%;
+        }
     }
-  }
   .app-screens .title-text {
     font-size: 22px;
     margin-bottom: 50px;
