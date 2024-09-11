@@ -37,28 +37,14 @@ html[dir="ltr"] {
   .about .item .desc {
     line-height: 1.5;
   }
-  @media screen and (max-width: 1700px) {
-    .hero-mobile {
-      left: 12%;
-    }
-  }
-  @media screen and (max-width: 1400px) {
-    .hero-mobile {
-      width: 460px;
-      left: 10%;
-    }
-  }
+
 
   @include max-1200 {
-    .hero-mobile {
-      left: 7%;
-    }
+
     .download-parent {
       width: 100%;
     }
-    .hero-mobile {
-      width: 390px;
-    }
+
     .banner-desc {
       width: 450px;
     }
@@ -68,16 +54,10 @@ html[dir="ltr"] {
     .banner-desc {
       width: 365px;
     }
-    .hero-mobile {
-      width: 330px;
-    }
   }
   @include max-768 {
     
-    .hero-mobile {
-      left: 50%;
-      width: 270px;
-    }
+
     .about .item{
       width : calc(50% - 10px) ;
     }

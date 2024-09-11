@@ -501,11 +501,6 @@ ol.breadcrumb li span {
     width: 600px;
   }
 }
-@media screen and (max-width: 1400px) {
-  .features .features-mobiles {
-    right: 10%;
-  }
-}
 @media only screen and (max-width: 1199px) {
   .features .general-title {
     font-size: 30px;
@@ -2142,26 +2137,9 @@ html[dir=ltr] .client-reviews .item .quote-text,
 html[dir=ltr] .about .item .desc {
   line-height: 1.5;
 }
-@media screen and (max-width: 1700px) {
-  html[dir=ltr] .hero-mobile {
-    left: 12%;
-  }
-}
-@media screen and (max-width: 1400px) {
-  html[dir=ltr] .hero-mobile {
-    width: 460px;
-    left: 10%;
-  }
-}
 @media only screen and (max-width: 1199px) {
-  html[dir=ltr] .hero-mobile {
-    left: 7%;
-  }
   html[dir=ltr] .download-parent {
     width: 100%;
-  }
-  html[dir=ltr] .hero-mobile {
-    width: 390px;
   }
   html[dir=ltr] .banner-desc {
     width: 450px;
@@ -2171,15 +2149,8 @@ html[dir=ltr] .about .item .desc {
   html[dir=ltr] .banner-desc {
     width: 365px;
   }
-  html[dir=ltr] .hero-mobile {
-    width: 330px;
-  }
 }
 @media only screen and (max-width: 767px) {
-  html[dir=ltr] .hero-mobile {
-    left: 50%;
-    width: 270px;
-  }
   html[dir=ltr] .about .item {
     width: calc(50% - 10px);
   }

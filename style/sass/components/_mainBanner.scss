@@ -7,13 +7,7 @@
   }
 }
 
-// .hero-mobile {
-//   position: absolute;
-//   width: 575px;
-//   left: 16%;
-//   top: 50%;
-//   margin-top: -314px;
-// }
+
 .mainBanner-parent {
   background-image: url(../images/hero-bg.jpg);
   background-position: center 50%;
@@ -108,27 +102,10 @@
   }
 }
 
-// @media screen and (max-width: 1700px) {
-//   .hero-mobile {
-//     width: 500px;
-//     margin-top: -240px;
-//     left: 14%;
-//   }
-// }
 
-// @media screen and (max-width: 1400px) {
-//   .hero-mobile {
-//     width: 500px;
-//     margin-top: -250px;
-//   }
-// }
 
 @include max-1200 {
-  // .hero-mobile {
-  //   width: 420px;
-  //   inset-inline-end: 5%;
-  //   margin-top: -220px;
-  // }
+
   .banner-desc {
     width: 500px;
   }
@@ -139,11 +116,7 @@
     width: 375px;
     inset-inline-end: 0;
   }
-  // .hero-mobile {
-  //   width: 350px;
-  //   left: 5%;
-  //   margin-top: -175px;
-  // }
+
 }
 
 @include max-768 {
@@ -162,21 +135,7 @@
     -webkit-clip-path: ellipse(160% 100% at 50% 0%);
     clip-path: ellipse(160% 100% at 50% 0%);
   }
-  // .hero-mobile {
-  //   bottom: 10px;
-  //   inset-inline-end: unset;
-  //   left: 50%;
-  //   margin-left: -135px;
-  //   width: 270px;
-  //   margin-top: unset;
-  //   top: unset;
-  // }
-  // .scroll-btn span {
-  //   border-color: #000;
-  //   &::after {
-  //     background-color: #000;
-  //   }
-  // }
+
 
   .scroll-btn {
     bottom: 54px;
@@ -224,10 +183,6 @@
 }
 
 @media screen and (max-width: 360px) {
-  // .hero-mobile {
-  //   width: 230px;
-  //   margin-left: -120px;
-  // }
   .banner-desc .main-title {
     font-size: 22px;
   }
